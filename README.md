@@ -1,7 +1,7 @@
 # Playground repo for Python projects
 This repo has multiple branches and each branch represent different projects/proof of concepts for playing with Python technologies/frameworks.
 
-__P.S. `master` branch is empty and has only this `README.md` file__
+_P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Table of Contents
 - [Contents in other branches](#contents-in-other-branches)
