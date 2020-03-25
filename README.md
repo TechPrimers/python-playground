@@ -5,4 +5,6 @@ P.S. `master` branch is empty and has only this `README.md` file
 
 ## Contents in other branches
 - [Learning Pipenv and Pipfile](https://github.com/TechPrimers/python-playground/tree/learn/pipenv-pipfile)
-  - Added custom package installation - PyPDF2 for reading PDF
+  - Day1 
+    - Started with `pipenv` usage
+    - Added custom package installation - PyPDF2 for reading PDF
