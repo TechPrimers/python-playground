@@ -12,6 +12,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
   - Day1 
     - Started with `pipenv` usage
     - Added custom package installation - PyPDF2 for reading PDF
+    - Created `learn` module and used in `modules.py`
 
 ## Installation
 Command used in Mac for installing supporting tools
