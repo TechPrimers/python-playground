@@ -9,10 +9,13 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Contents in other branches
 - [learn/pipenv-pipfile - Learning Pipenv and Pipfile](https://github.com/TechPrimers/python-playground/tree/learn/pipenv-pipfile)
-  - Day1 
+  - Day 1 
     - Started with `pipenv` usage
     - Added custom package installation - PyPDF2 for reading PDF
     - Created `learn` module and used in `modules.py`
+- [learn/functions - Functions]
+  - Day 2
+    - Started using callable functions inside a class
 
 ## Installation
 Command used in Mac for installing supporting tools
