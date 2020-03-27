@@ -5,4 +5,4 @@
 - Created `functions.py` class and used it in `functions_main.py`
 
 ## Day 3
-- Strings
+- Strings usage with `strip`, `find`, `count`, `index`, etc.,
