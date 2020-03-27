@@ -33,3 +33,6 @@ print("Count: ", count_variable.count("text"))
 alpha_variable = "Thishasnumbersandtexts2"
 print("alpha_variable isAlphanumberic: ", alpha_variable.isalnum())
 print("count_variable isAlphanumberic: ", count_variable.isalnum())
+
+title = "This is a title"
+print("Title: ", title.title())
