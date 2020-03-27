@@ -16,6 +16,8 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 - [learn/functions - Functions](https://github.com/TechPrimers/python-playground/tree/learn/functions)
   - Day 2
     - Started using callable functions inside a class
+  - Day 3
+    - Started using Functions and String manipulation
 
 ## Installation
 Command used in Mac for installing supporting tools
