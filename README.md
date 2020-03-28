@@ -26,3 +26,6 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 Command used in Mac for installing supporting tools
 - Python3 - `brew install python3`
 - Pipenv - `brew install pipenv`
+
+## Resources
+- [Introducing Python - Oreilly](https://learning.oreilly.com/library/view/introducing-python-2nd)
