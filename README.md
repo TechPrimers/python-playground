@@ -18,6 +18,9 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - Started using callable functions inside a class
   - Day 3
     - Started using Functions and String manipulation
+- [learn/tuples - Tuples](https://github.com/TechPrimers/python-playground/tree/learn/tuples)
+  - Day 4
+    - Started using `tuples`
 
 ## Installation
 Command used in Mac for installing supporting tools
