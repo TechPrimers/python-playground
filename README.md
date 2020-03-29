@@ -4,10 +4,11 @@ This repo has multiple branches and each branch represent different projects/pro
 _P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Table of Contents
-- [Contents in other branches](#contents-in-other-branches)
+- [Status Updates](#status-updates)
 - [Installation](#installation)
+- [Resources](#resources)
 
-## Contents in other branches
+## Status Updates
 - [learn/pipenv-pipfile - Pipenv and Pipfile](https://github.com/TechPrimers/python-playground/tree/learn/pipenv-pipfile)
   - Day 1 
     - Started with `pipenv` usage
