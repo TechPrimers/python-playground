@@ -32,4 +32,4 @@ Command used in Mac for installing supporting tools
 - Pipenv - `brew install pipenv`
 
 ## Resources
-- [Introducing Python - Oreilly](https://learning.oreilly.com/library/view/introducing-python-2nd)
+- [Introducing Python - Oreilly](https://learning.oreilly.com/library/view/introducing-python-2nd) - Most exhaustive and amazing book..!
