@@ -10,7 +10,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Status Updates
 - [learn/pipenv-pipfile - Pipenv and Pipfile](https://github.com/TechPrimers/python-playground/tree/learn/pipenv-pipfile)
-  - Day 1 
+  - Day 1 - March 25th, 2020
     - Started with `pipenv` usage
     - Added custom package installation - PyPDF2 for reading PDF
     - Created `learn` module and used in `modules.py`
