@@ -25,6 +25,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 - [learn/dictionaries - Dictionaries](https://github.com/TechPrimers/python-playground/tree/learn/dictionaries)
   - Day 5
     - Started using `dictionaries`
+    - Started using `set`
 
 ## Installation
 Command used in Mac for installing supporting tools
