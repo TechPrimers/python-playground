@@ -21,6 +21,9 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 - [learn/tuples - Tuples](https://github.com/TechPrimers/python-playground/tree/learn/tuples)
   - Day 4
     - Started using `tuples`
+- [learn/dictionaries - Dictionaries](https://github.com/TechPrimers/python-playground/tree/learn/dictionaries)
+  - Day 5
+    - Started using `dictionaries`
 
 ## Installation
 Command used in Mac for installing supporting tools
