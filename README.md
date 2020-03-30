@@ -16,6 +16,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Status Updates
 From March 25th, 2020
+
 ### Day 1
 - `pipenv install` - Similar to `npm install`. Creates 2 files `Pipfile` and `Pipfile.lock` similar to `package-lock.json` in the javascript world with dependencies based on `requirements.txt`
 - `pipenv shell` - Activates the virtual environment. Much simpler than `virtualenv`
