@@ -18,6 +18,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 From March 25th, 2020
 
 ### Day 1
+- `cd pipenv`
 - `pipenv install` - Similar to `npm install`. Creates 2 files `Pipfile` and `Pipfile.lock` similar to `package-lock.json` in the javascript world with dependencies based on `requirements.txt`
 - `pipenv shell` - Activates the virtual environment. Much simpler than `virtualenv`
 - Once the shell is activated, run `python3 hello.py` to bring the Flask app UP!!
@@ -41,15 +42,18 @@ From March 25th, 2020
     - `learn` is a module which is used in `modules.py`
 
 ### Day 2
+  - cd `functions`
   - Started using callable functions inside a class
 
 ### Day 3
   - Started using Functions and String manipulation
 
 ### Day 4
+  - `cd tuples`
   - Started using `tuples`
 
 ### Day 5
+  - `cd dictionaries`
   - Started using `dictionaries`
   - Started using `set`
 
