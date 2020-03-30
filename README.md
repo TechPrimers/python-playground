@@ -1,3 +1,0 @@
-# Tuples
-
-## Day 4
