@@ -5,13 +5,18 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 
 ## Table of Contents
 - [Status Updates](#status-updates)
+    - [Day 1](#day-1)
+    - [Day 2](#day-2)
+    - [Day 3](#day-3)
+    - [Day 4](#day-4)
+    - [Day 5](#day-5)
+    - [Day 6](#day-6)
 - [Installation](#installation)
 - [Resources](#resources)
 
 ## Status Updates
-- [learn/pipenv-pipfile - Pipenv and Pipfile](https://github.com/TechPrimers/python-playground/tree/learn/pipenv-pipfile)
-  - Day 1 - March 25th, 2020
- ## Day 1
+From March 25th, 2020
+### Day 1
 - `pipenv install` - Similar to `npm install`. Creates 2 files `Pipfile` and `Pipfile.lock` similar to `package-lock.json` in the javascript world with dependencies based on `requirements.txt`
 - `pipenv shell` - Activates the virtual environment. Much simpler than `virtualenv`
 - Once the shell is activated, run `python3 hello.py` to bring the Flask app UP!!
@@ -34,19 +39,21 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - If a package has `__init__.py`, it becomes a module
     - `learn` is a module which is used in `modules.py`
 
+### Day 2
+  - Started using callable functions inside a class
 
-- [learn/functions - Functions](https://github.com/TechPrimers/python-playground/tree/learn/functions)
-  - Day 2
-    - Started using callable functions inside a class
-  - Day 3
-    - Started using Functions and String manipulation
-- [learn/tuples - Tuples](https://github.com/TechPrimers/python-playground/tree/learn/tuples)
-  - Day 4
-    - Started using `tuples`
-- [learn/dictionaries - Dictionaries](https://github.com/TechPrimers/python-playground/tree/learn/dictionaries)
-  - Day 5
-    - Started using `dictionaries`
-    - Started using `set`
+### Day 3
+  - Started using Functions and String manipulation
+
+### Day 4
+  - Started using `tuples`
+
+### Day 5
+  - Started using `dictionaries`
+  - Started using `set`
+
+### Day 6
+
 
 ## Installation
 Command used in Mac for installing supporting tools
