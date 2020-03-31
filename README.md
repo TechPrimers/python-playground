@@ -11,6 +11,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - [Day 4](#day-4)
     - [Day 5](#day-5)
     - [Day 6](#day-6)
+    - [Day 7](#day-7)
 - [Installation](#installation)
 - [Resources](#resources)
 
@@ -58,7 +59,8 @@ From March 25th, 2020
   - Started using `set`
 
 ### Day 6
-
+ - Started with class usage and best practices
+ 
 ### Day 7
 
 
