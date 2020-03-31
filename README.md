@@ -59,6 +59,8 @@ From March 25th, 2020
 
 ### Day 6
 
+### Day 7
+
 
 ## Installation
 Command used in Mac for installing supporting tools
@@ -67,3 +69,4 @@ Command used in Mac for installing supporting tools
 
 ## Resources
 - [Introducing Python - Oreilly](https://learning.oreilly.com/library/view/introducing-python-2nd) - Most exhaustive and amazing book..!
+- [Projects to build after learning pythong](https://medium.com/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56)
