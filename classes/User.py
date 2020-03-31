@@ -1,4 +1,4 @@
-class User() :
+class User:
 
     def __init__(self, input_name):
         self.private_name = input_name

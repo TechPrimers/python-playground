@@ -62,7 +62,8 @@ From March 25th, 2020
  - Started with class usage and best practices
  
 ### Day 7
-
+ - class methods
+ - static methods
 
 ## Installation
 Command used in Mac for installing supporting tools
