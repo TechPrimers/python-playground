@@ -67,7 +67,8 @@ From March 25th, 2020
  - static methods
 
 ### Day 8
- - class equals
+ - class equals and repr
+ - Data Class usage
 
 ## Installation
 Command used in Mac for installing supporting tools
