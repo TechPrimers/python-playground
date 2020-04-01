@@ -6,3 +6,4 @@ word_c = Word("b")
 
 print("A equals B: ", word_a == word_b)
 print("B equals C: ", word_b == word_c)
+print("A: ", word_a)
