@@ -1,2 +1,2 @@
-This is a temp file 
+This is a temp file
 Second line
