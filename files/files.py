@@ -1,3 +1,5 @@
+import os
+
 file_obj = open("files.txt", "wt")
 print("This is a temp file", file=file_obj)
 file_obj.write("Second line")
@@ -23,3 +25,7 @@ print("Lines: ", lines)
 file_obj.close()
 for line in lines:
     print("Line...", line)
+
+print(os.path.isfile('files.txt'))
+print(os.path.isfile('files.temp'))
+print(os.path.exists('files.txt'))
