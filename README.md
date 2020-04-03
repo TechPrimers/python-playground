@@ -13,6 +13,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - [Day 6](#day-6)
     - [Day 7](#day-7)
     - [Day 8](#day-8)
+    - [Day 10](#day-10)
 - [Installation](#installation)
 - [Resources](#resources)
 
@@ -69,6 +70,9 @@ From March 25th, 2020
 ### Day 8
  - class equals and repr
  - Data Class usage
+ 
+### Day 10
+ - Files and Directories
 
 ## Installation
 Command used in Mac for installing supporting tools
