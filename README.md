@@ -14,6 +14,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - [Day 7](#day-7)
     - [Day 8](#day-8)
     - [Day 10](#day-10)
+    - [Day 12](#day-12)
 - [Installation](#installation)
 - [Resources](#resources)
 
@@ -73,6 +74,9 @@ From March 25th, 2020
  
 ### Day 10
  - Files and Directories
+
+### Day 12
+ - Lambda
 
 ## Installation
 Command used in Mac for installing supporting tools
