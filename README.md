@@ -15,6 +15,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
     - [Day 8](#day-8)
     - [Day 10](#day-10)
     - [Day 12](#day-12)
+    - [Day 13](#day-13)
 - [Installation](#installation)
 - [Resources](#resources)
 
@@ -77,6 +78,9 @@ From March 25th, 2020
 
 ### Day 12
  - Lambda
+
+### Day 13
+ - Solving LeetCode program - [Problem](https://leetcode.com/problems/two-sum/)
 
 ## Installation
 Command used in Mac for installing supporting tools
