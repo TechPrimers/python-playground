@@ -8,3 +8,10 @@ class Solution:
                     if (sumOf == target):
                         return j, i
 # Enumeration is faster than this
+#     def twoSum(self, nums, target):
+#         a ={}
+#         for i, num in enumerate(nums):
+#             if target-num in a:
+#                 return [a[target - num], i]
+#             else:
+#                 a[num] = i
