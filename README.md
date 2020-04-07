@@ -1,7 +1,5 @@
 # Playground repo for Python projects
-This repo has multiple branches and each branch represent different projects/proof of concepts for playing with Python technologies/frameworks.
-
-_P.S. `master` branch is empty and has only this `README.md` file_
+This is a learning repo with different projects/proof of concepts for playing with Python technologies/frameworks.
 
 ## Table of Contents
 - [Status Updates](#status-updates)
@@ -20,7 +18,7 @@ _P.S. `master` branch is empty and has only this `README.md` file_
 - [Resources](#resources)
 
 ## Status Updates
-From March 25th, 2020
+As part of 21 days of lockdown, I started learning python from March 25th, 2020.
 
 ### Day 1
 - `cd pipenv`
